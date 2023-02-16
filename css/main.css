@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+header {
+    width: 100;
+    height: 60px;
+}
+header nav {
+    display: flex;
+    justify-content: flex-end;
+} 
+header nav .nav-right-section {
+    width: 250px;
+    height: auto;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+nav .nav-right-section a {
+    margin-right: 10 px;
+    color: #000;
+}
+nav .nav-right-section .menu-icon {
+    background-image: url("https://www.google.com/search?q=imagen+de+icono+menu&sxsrf=AJOqlzXMToANJtsy7kx_i-GPHuCkGHROQQ:1676495146696&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjuyL6Nt5j9AhUwRDABHXuhCDoQ_AUoAXoECAEQAw&biw=1920&bih=937&dpr=1#imgrc=bZLDpbkDfS5rGM");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+}
