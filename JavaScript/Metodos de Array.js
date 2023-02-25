@@ -40,4 +40,8 @@ posts.map(post => post.title)
 
 posts.filter(post => post.tags.includes ('angular'))
 
-//
+//Reduce 
+
+post.reduce((allTags, post) => {
+    return Array.from (new set([ ...allTags,...post]))
+}, [])
