@@ -36,6 +36,7 @@
         <nav>
             <ul>
                 <li>
+                    (https://aprendiendo.dev/javascript#lessons)
                     (https://platzi.com/cursos/basico-javascript/)
                     (https://platzi.com/cursos/estructuras-datos/)
                     (https://frontendmasters.com/learn/javascript/)

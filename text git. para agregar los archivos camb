@@ -1,3 +1,4 @@
-git add . para agregar los archivos cambiados
-git commit -am "Aqui viene el mensaje del commit"
+git add . //para agregar los archivos cambiados
+git commit -am "Aqui viene el mensaje del commit" //Con el guion -am agrega los archivos que estaban creados y fueron modificados al estado stage y crea el mensajes del commit
+git commit -m "" //Con el guion -m es para indicar el mensaje del commit
 git push

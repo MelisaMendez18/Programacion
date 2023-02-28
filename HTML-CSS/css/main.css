@@ -85,14 +85,18 @@ main .main-input .search-icon{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-   
+    height: 18px;
+    width: 18px;
+    display: inline-block; 
 }
 main .main-input .micro-icon{
     background-image: url('https://play-lh.googleusercontent.com/6w97U4A8U-adUqQxuYNUagn5UaHE_498hpgKGlAYJRRq0EMbMMPr9ik1ntKYl1PdaatT');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    
+    height: 18px;
+    width: 18px;
+    display: inline-block;    
 }
 main .main-buttons{
     width: 350px;
