@@ -1,4 +1,4 @@
- const miContador = (function(){
+ /*const miContador = (function(){
     let _contador = 0;
 
     function incrementar (){
@@ -18,10 +18,11 @@
         decrementar,
         valor,
     }
- })(); 
+ })();
   
  miContador.valor()
  miContador.incrementar()
  miContador.decrementar()
  miContador.valor()
  miContador.incrementar()
+ */

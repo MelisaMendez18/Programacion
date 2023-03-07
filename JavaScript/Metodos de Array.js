@@ -1,3 +1,5 @@
+/*
+
 const posts = [{
     id:1,
     title: 'Mi primer post',
@@ -45,3 +47,5 @@ posts.filter(post => post.tags.includes ('angular'))
 post.reduce((allTags, post) => {
     return Array.from (new set([ ...allTags,...post]))
 }, [])
+
+*/

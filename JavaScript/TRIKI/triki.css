@@ -1,0 +1,37 @@
+body {
+    background-color: #F6DDCC;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+h4{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    text-align: center; 
+}
+button{
+    width: 150px;
+    height: 150px;
+    background-color: #CCD1D1;
+}
+
+.container{
+    display: grip;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 600px;
+    margin: auto;
+}
+

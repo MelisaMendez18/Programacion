@@ -1,3 +1,5 @@
+/*
+
 //while
 
 function bucleWhile(num){
@@ -59,3 +61,5 @@ doWhile(11);
  for (let prop in libro){
     console.log (`}La prop ${prop} contiene: ${libro[prop]}`)
  }
+
+ */
