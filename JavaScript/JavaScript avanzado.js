@@ -1,3 +1,4 @@
+/*
 //Currying*
 
 const transacion = (fee, balance, amonunt) =>{
@@ -79,3 +80,4 @@ Reflect.defineProperty (person, 'phone', {writable: true});
 Reflect.has (person, 'phone');
 Reflect.set (person, 'phone', '65656565');
 Reflect.deleteProperty (person, 'phone'); 
+*/

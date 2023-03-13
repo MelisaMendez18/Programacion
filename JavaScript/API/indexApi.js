@@ -21,13 +21,13 @@ xhr.open ("GET", ` $ {API_URL}/users`);
 xhr.send ();
 */
 
-const API_URL = 'https://jsonplaceholder.typicode.com/';
+//*const API_URL = 'https://jsonplaceholder.typicode.com/';
 
-const HTMLResponse = Document.querySelector("#app");
+//const HTMLResponse = Document.querySelector("#app");
 
-fetch (`${API_URL}/users`)
-   .then ((response) => response.json())
-   .then ((users) =>{
+//fetch (`${API_URL}/users`)
+   //.then ((response) => response.json())
+   //.then ((users) =>{
     //const tpl = users.map ((user) => `<li> ${user.name} ${user.email}</li>`);
     //HTMLResponse.innerHTML = `<ul> ${tpl} </ul>`;
-   });
+   //});

@@ -1,3 +1,5 @@
+/*
+
 const datos =[{
     id: 1,
     title: 'iron man',
@@ -48,3 +50,5 @@ async function fetchingData(){
     }
 }
 fetchingData();
+
+*/
